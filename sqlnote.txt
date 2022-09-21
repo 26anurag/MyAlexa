@@ -1,0 +1,5 @@
+DDL-Data definition language.(struture),command-> (create,drop,alter,truncate)
+DML-data manipulation language.add or remove data then we use DML.command->(insert,update,modify)
+TCL-transaction controll language.(coomit ,roolback)
+DQL-data query language.(fetching,select)
+DCL-data control language.(grant and revoke)
